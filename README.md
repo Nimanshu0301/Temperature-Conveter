@@ -18,5 +18,4 @@ This is a simple **Temperature Converter** web application built using **HTML**,
 ## How to Run the Project
 
 1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/Nimanshu0301/Temperature-Conveter.git
+   https://github.com/Nimanshu0301/Temperature-Conveter.git
